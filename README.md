@@ -12,10 +12,7 @@ This is a project to create a model capable of generating text based on all the 
 While this might not be a problem to solve world hunger or achieve world peace, it's still an interesting topic and could provide a basis for further discussions on the public discourse in Sweden. Reading and listening to the speeches give a sometimes robotic feel sometime, where politicians talk more based on their party stance rather than expressing their own opinions in a free way. This could help highlight these similarities, in order to create a talking point of how we could bring more individuality and diversity of opinions as well. 
 
 
-
 ## How is it used?
-
-
 
 The initial prototype would just be an interface where you choose some key parameters and let it generate text. This can then be developed to allow to provide it with topics or questions to allow it generate text in specific areas. It could also be used to automatically collect information on the discussions going on in public (e.g. through scraping the main headlines from the newspapers) and create a proposed reaction for different parties. 
 
@@ -26,15 +23,16 @@ The data to train the model will be collected from the open database provided by
 
 The solution will be created in multiple steps
 
-* Prepare data: Create a Vector Representation of the data in each speech
-* Create text generation 
-* Build interface for presenting text
+* Prepare and clean the data and create Vector Representation of the data in each speech
+* Build a text genrerating model that can train the model  entire data set or chosen subsets 
+* Build interface for interacting with the model and presenting the generated text
 * Extend interface with additional controls (eg. based on specific time, party or speakers)
 
 
 ## Challenges
 
-It's important to always make sure that it is clear that the generated texts are from a Bot, and not being seen as real text created by humans. 
+There will be lot of technical issues to deal with thoughout the project. The most important thing is however to always think of the ethical aspects, e.g. by making sure that it is clear that the generated texts are from a Bot, and not being seen as real text created by humans. 
+
 
 ## What next?
 
