@@ -1,6 +1,6 @@
 # Riksdagen-as-a-Service
 
-Final project for the Building AI course - "Swedish Parliament as a Service"
+Building AI course  project - "Swedish Parliament as a Service"
 
 ## Summary
 
