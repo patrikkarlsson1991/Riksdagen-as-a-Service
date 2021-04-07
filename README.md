@@ -4,7 +4,7 @@ Building AI course  project - "Swedish Parliament as a Service"
 
 ## Summary
 
-This is a project to create a model capable of generating text based on all the speeches from the last 20 years in the Swedish Parliament. By comparing the output from bots trained on speeches from different parties and different times it could help highlight the main similarities and differences in the public debate.
+This is a project to create a model capable of generating text based on all the speeches from the last 20 years in the Swedish Parliament. By comparing the output from models trained on speeches from different parties and different times it could help highlight the main similarities and differences in the public debate.
 
 
 ## Background
@@ -38,7 +38,7 @@ There will be lot of technical issues to deal with thoughout the project. The mo
 
 There are multiple improvements that could be made to the model, such as:
 
-* Expanding the bots functionalities to also be able to respond to given texts and issues. This could be done by not only looking at the individual speeches made, and include information on the speeches that they responded to in the different cases
+* Expanding the bots functionalities to also be able to respond to given texts and issues. This could be done by not only looking at the individual speeches made, but instead also include information on the speeches that they responded to in the different cases
 * Expand the source material, e.g. from the Party Programs, official communications, social media feeds, etc. 
 * Add the opportunity to segment on more factors of the user's choosing, e.g. specific topics, time, etc. 
 
@@ -48,3 +48,4 @@ In addition to this there are also a lot of new models for text generation that 
 ## Acknowledgments
 
 * I'd like to thank the people behind the [Building AI course](https://buildingai.elementsofai.com/) for the course and the inspiration to further explore the opportunities with ML and AI
+* The Swedish Parliament for providing their data in an accessible and comprehensive way
