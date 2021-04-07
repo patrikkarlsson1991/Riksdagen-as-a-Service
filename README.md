@@ -4,7 +4,7 @@ Building AI course  project - "Swedish Parliament as a Service"
 
 ## Summary
 
-This is a project to create a chatbot capable of generating novel twitter posts as well as responding to others. Based on all the speeches from the last 20 years we get a chatbot capable of talking like a true politician. By comparing the output from bots trained on speeches from different parties and different times it could help highlight the main similarities and differences in the public debate.
+This is a project to create a model capable of generating text based on all the speeches from the last 20 years in the Swedish Parliament. By comparing the output from bots trained on speeches from different parties and different times it could help highlight the main similarities and differences in the public debate.
 
 
 ## Background
