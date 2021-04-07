@@ -49,4 +49,4 @@ In addition to this there are also a lot of new models for text generation that 
 
 ## Acknowledgments
 
-* ...
+* I'd like to thank the people behind the [Building AI course](https://buildingai.elementsofai.com/) for the course and the inspiration to further explore the opportunities with ML and AI
